@@ -4,7 +4,7 @@ This repository contains an R script to scrape the top wicket keeper in a specif
 
 ## Overview
 
-The script uses the `rvest` package in R to extract data from the [top 10 wicket keeper in india](https://www.mpl.live/blog/indian-wicket-keeper-get-top-10-list/) page on ESPNcricinfo. Specifically, it scrapes the name of each player, the span of their career, the number of matches played, and the total dismissal.
+The script uses the `rvest` package in R to extract data from the [top 10 wicket keeper in india](https://www.mpl.live/blog/indian-wicket-keeper-get-top-10-list/) page on mpl live. Specifically, it scrapes the name of each player, the span of their career, the number of matches played, and the total dismissal.
 
 
 The extracted data is then stored in a data frame and saved as a CSV file.
